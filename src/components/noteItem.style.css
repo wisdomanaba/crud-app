@@ -1,0 +1,9 @@
+.NoteItem_container{
+      width: 184px;
+      border: 1px solid gray;
+      border-radius: 0.3em;
+      padding: 1em;
+      margin-bottom: 1em;
+      display: inline-block;
+      cursor: pointer;
+}
